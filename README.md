@@ -62,6 +62,6 @@ This tool is created for **educational purposes only**. It is intended to help l
 * **Do not** use this tool on networks where you do not have permission.
 * **Do not** use this tool to intercept sensitive data of others.
 
----
-*Developed by Badar as part of the CodeAlpha Cybersecurity Internship.*
+
+
 
