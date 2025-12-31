@@ -27,8 +27,9 @@ It is built to help understand the basics of how data moves across a network (IP
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/BadarIjaz/codealpha_tasks.git](https://github.com/BadarIjaz/codealpha_tasks.git)
-    cd codealpha_tasks/CodeAlpha_NetworkSniffer
+    git clone https://github.com/rajkumar3887/Prodigy_CS_05.git
+
+    
     ```
 
 2.  **Install Dependencies:**
@@ -61,6 +62,7 @@ This tool is created for **educational purposes only**. It is intended to help l
 
 * **Do not** use this tool on networks where you do not have permission.
 * **Do not** use this tool to intercept sensitive data of others.
+
 
 
 
