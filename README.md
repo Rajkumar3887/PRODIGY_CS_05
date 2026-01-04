@@ -1,6 +1,6 @@
 # Basic Network Sniffer 🕵️‍♂️
 
-**Project:** CodeAlpha Cybersecurity Internship - Task 01  
+
 **Domain:** Network Security  
 
 This tool is a Python script that captures network packets in real-time. It acts like a digital "listener," analyzing data flowing through your computer to show you where traffic is coming from and where it is going.
@@ -62,6 +62,7 @@ This tool is created for **educational purposes only**. It is intended to help l
 
 * **Do not** use this tool on networks where you do not have permission.
 * **Do not** use this tool to intercept sensitive data of others.
+
 
 
 
